@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>mowenxuan</translationContributors>
+    <texts>
+        <text name="input_POWERTOOLSMENU" text="打开电动工具菜单" />
+        <text name="input_POWERTOOLSMENU_ALTERNATIVE" text="打开辅助电动工具菜单" />
+        <text name="input_POWERTOOLS_QUICKSAVE" text="快速保存" />
+        <text name="flightMode" text="飞行模式" />
+        <text name="enabled" text="已启用" />
+        <text name="disabled" text="已关闭" />
+        <text name="flightModeUsage" text="使用 J 键切换飞行，Q 和 E 键更改高度" />
+        <text name="changeMoneyMode" text="增加/删除 金钱" />
+        <text name="exitMode" text="退出到菜单" />
+        <text name="chooseAction" text="选择操作" />
+        <text name="powerTools" text="电动工具" />
+        <text name="changeMoneyUsage" text="例如：\\n'1000' 向您的帐户添加1,000 欧元 \\n'-1000' 从您的帐户中减去1,000 欧元 \\n'=1000' 将您的帐户设置为1,000 欧元" />
+        <text name="errorNotNumeric" text="不是有效的数值: " />
+        <text name="buttonOk" text="好的" />
+        <text name="buttonCancel" text="取消" />
+        <text name="noHudMode" text="打开/关闭 HUD" />
+        <text name="superStrengthMode" text="切换超级力量" />
+        <text name="superStrength" text="超级力量" />
+        <text name="filltypeNone" text="空 (无)" />
+        <text name="chooseFillUnit" text="选择存储空间 (填充单位)" />
+        <text name="chooseFillUnitDetailed" text="您想要填充哪一个存储 (填充单位)?" />
+        <text name="fillVehicle" text="填充车辆" />
+        <text name="selectFillType" text="选择要添加的填充类型 (或选择'无'为空)" />
+        <text name="errorNoValidFilltypes" text="此车辆无有效填充类型" />
+        <text name="errorNoValidFillUnits" text="没有可用的有效填充单元" />
+        <text name="tipOnGround" text="地面上的提示" />
+        <text name="confirmExit" text="你真的想退出吗?" />
+        <text name="exitRestartWarning" text="警告! 不保存就退出将导致进度丢失!" />
+        <text name="saveGame" text="保存游戏" />
+        <text name="spawnObjectsActionTitle" text="生成物体/材料" />
+        <text name="spawnObjectsActionText" text="选择要添加的对象/材料类型" />
+        <text name="actionClearTipArea" text="清除尖端区域" />
+        <text name="input_POWERTOOLS_REPEAT_ACTION" text="重复上一个动作" />
+        <text name="restartMode" text="重启保存游戏" />
+        <text name="forcedRestartMode" text="重启保存游戏 (硬重置)" />
+        <text name="forcedExitMode" text="退出菜单 (硬重置)" />
+        <text name="flightActivated" text="飞行当前处于活动状态" />
+        <text name="flightActivatedExtra" text="使用 Q 和 E 键改变高度" />
+        <text name="flightDeactivated" text="飞行已关闭" />
+        <text name="flightDeactivatedExtra" text="注意着陆位置!" />
+        <text name="superSpeed" text="超级速度" />
+        <text name="superSpeedMode" text="切换超级速度" />
+        <text name="advancedMode" text="高级" />
+        
+    </texts>
+</l10n>
